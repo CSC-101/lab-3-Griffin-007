@@ -41,5 +41,3 @@ def increment_all(nums:list[int]) -> list[int]:
     return new_list
 result = increment_all([4, 9, 2, 1])
 print(result)
-
-new
